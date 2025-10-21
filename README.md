@@ -2,6 +2,8 @@
 
 A custom Gutenberg block for WordPress that renders a newsletter signup form on posts/pages. The plugin submits the form to a custom REST API endpoint, validates the email, and sends a confirmation email to the subscriber.
 
+![Newsletter Signup Block](assets/image/newsletter-signup-output.png)
+
 ## Features
 
 - Gutenberg block for newsletter signup.
